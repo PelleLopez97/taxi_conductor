@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "project_number": "736347484615",
+    "firebase_url": "https://pide-taxi-deb7f-default-rtdb.firebaseio.com",
+    "project_id": "pide-taxi-deb7f",
+    "storage_bucket": "pide-taxi-deb7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736347484615:android:069e94b0126dad8a17a9e2",
+        "android_client_info": {
+          "package_name": "com.example.pide_taxi_conductor_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736347484615-gnntlkkt5njlr3ju7lok3hoe63cuclvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhzJoIDXtODNupBPoawUOYO3AHyNPzK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736347484615-gnntlkkt5njlr3ju7lok3hoe63cuclvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736347484615:android:9d4a467cfbff80be17a9e2",
+        "android_client_info": {
+          "package_name": "com.example.pide_taxi_pasajero_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736347484615-gnntlkkt5njlr3ju7lok3hoe63cuclvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhzJoIDXtODNupBPoawUOYO3AHyNPzK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736347484615-gnntlkkt5njlr3ju7lok3hoe63cuclvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736347484615:android:170aa6a24a9c3ad417a9e2",
+        "android_client_info": {
+          "package_name": "pide.taxi.conductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736347484615-gnntlkkt5njlr3ju7lok3hoe63cuclvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhzJoIDXtODNupBPoawUOYO3AHyNPzK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736347484615-gnntlkkt5njlr3ju7lok3hoe63cuclvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736347484615:android:53f74661ac300af617a9e2",
+        "android_client_info": {
+          "package_name": "pide.taxi.pasajero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736347484615-gnntlkkt5njlr3ju7lok3hoe63cuclvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhzJoIDXtODNupBPoawUOYO3AHyNPzK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736347484615-gnntlkkt5njlr3ju7lok3hoe63cuclvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736347484615:android:104864febac4358917a9e2",
+        "android_client_info": {
+          "package_name": "taxi.base.conductor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736347484615-gnntlkkt5njlr3ju7lok3hoe63cuclvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhzJoIDXtODNupBPoawUOYO3AHyNPzK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736347484615-gnntlkkt5njlr3ju7lok3hoe63cuclvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736347484615:android:ed85aed4d64eb63817a9e2",
+        "android_client_info": {
+          "package_name": "taxi.base.pasajero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736347484615-gnntlkkt5njlr3ju7lok3hoe63cuclvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhzJoIDXtODNupBPoawUOYO3AHyNPzK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736347484615-gnntlkkt5njlr3ju7lok3hoe63cuclvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
